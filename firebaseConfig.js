@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore,increment } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBcYRqmRjtNtLcbXYv2pZ9RXxKciqrN2Pg",
-    authDomain: "cafecup-c2ef5.firebaseapp.com",
-    projectId: "cafecup-c2ef5",
-    storageBucket: "cafecup-c2ef5.firebasestorage.app",
-    messagingSenderId: "821150674766",
-    appId: "1:821150674766:web:64ed5ead979503ee6c781f",
-    measurementId: "G-TRT0C4DDC2"
+    apiKey: "AIzaSyA57xWbnBddcfuHGDOqKnzye_-X50EOW1o",
+    authDomain: "recycup-62d45.firebaseapp.com",
+    projectId: "recycup-62d45",
+    storageBucket: "recycup-62d45.firebasestorage.app",
+    messagingSenderId: "740536853370",
+    appId: "1:740536853370:web:6c7c4f8c8c6d6fabe62cc3",
+    measurementId: "G-49DT74QLSF"
 };
 
 // Initialize Firebase
